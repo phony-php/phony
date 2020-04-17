@@ -3,8 +3,8 @@
 namespace Phony\Test\Phony;
 
 use Phony\Phony;
-use RuntimeException;
 use PHPUnit\Framework\TestCase;
+use RuntimeException;
 
 class LoaderTest extends TestCase
 {
