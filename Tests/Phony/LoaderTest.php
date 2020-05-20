@@ -1,6 +1,6 @@
 <?php
 
-namespace Phonyland\Test\Phony;
+namespace Phonyland\Tests\Phony;
 
 use Phonyland\Phony;
 use PHPUnit\Framework\TestCase;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Phonyland\Test\Group\Standard;
+namespace Phonyland\Tests\Group\Standard;
 
-use Phonyland\Test\BaseTest;
+use Phonyland\Tests\BaseTest;
 
 class PersonTest extends BaseTest
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Phonyland\Test\Phony;
+namespace Phonyland\Tests\Phony;
 
-use Phonyland\Test\BaseTest;
+use Phonyland\Tests\BaseTest;
 
 class FakeFetchTest extends BaseTest
 {

@@ -21,6 +21,7 @@
     },
     "require-dev": {
         "ext-mbstring": "*",
+        "pestphp/pest": "^0.1.2",
         "phpunit/phpunit": "^9.0"
     },
     "autoload": {
@@ -30,11 +31,14 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Phonyland\\Test\\": "test"
+            "Phonyland\\Tests\\": "tests"
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "scripts": {
-        "test": "vendor/bin/phpunit --configuration phpunit.xml.dist --colors=always"
+        "test": "vendor/bin/pest --configuration phpunit.xml --colors=always",
+        "coverage": "vendor/bin/pest --configuration phpunit.xml --colors=always --coverage"
     },
     "config": {
         "sort-packages": true

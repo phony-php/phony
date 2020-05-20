@@ -13,13 +13,13 @@
     >
     <testsuites>
         <testsuite name="Phony Internals Test Suite">
-            <directory>test/Phony</directory>
+            <directory>tests/Phony</directory>
         </testsuite>
         <testsuite name="Default Locale Test Suite">
-            <directory>test/Group</directory>
+            <directory>tests/Group</directory>
         </testsuite>
         <testsuite name="Other Locale Test Suite">
-            <directory>test/Locale</directory>
+            <directory>tests/Locale</directory>
         </testsuite>
     </testsuites>
     <filter>

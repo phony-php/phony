@@ -1,6 +1,6 @@
 <?php
 
-namespace Phonyland\Test;
+namespace Phonyland\Tests;
 
 use Phonyland\Locale;
 use Phonyland\Phony;
