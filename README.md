@@ -8,12 +8,14 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/phonyland/phony.svg?style=flat-square)](https://packagist.org/packages/phonyland/phony)
 [![Total Downloads](https://img.shields.io/packagist/dt/phonyland/phony.svg?style=flat-square)](https://packagist.org/packages/phonyland/phony)
 ![Packagist](https://img.shields.io/packagist/l/phonyland/phony)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphonyland%2Fphony.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphonyland%2Fphony?ref=badge_shield)
 
 </div>
 
 <div align="center">
 
 ![Tests](https://github.com/phonyland/phony/workflows/Tests/badge.svg)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=phonyland_phony&metric=bugs)](https://sonarcloud.io/dashboard?id=phonyland_phony)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=phonyland_phony&metric=coverage)](https://sonarcloud.io/dashboard?id=phonyland_phony)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=phonyland_phony&metric=ncloc)](https://sonarcloud.io/dashboard?id=phonyland_phony)
 
@@ -121,3 +123,5 @@ If you discover any security related issues, please email phony@deligoz.me inste
 ## 📄 License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphonyland%2Fphony.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphonyland%2Fphony?ref=badge_large)
