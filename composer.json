@@ -1,7 +1,7 @@
 {
     "name": "phonyland/phony",
     "description": "Generate massive amount of realistic fake data in multiple locales",
-    "keywords": ["package", "faker", "phony"],
+    "keywords": ["package", "phony", "faker", "generator", "random"],
     "homepage": "https://github.com/phonyland/phony",
     "license": "MIT",
     "type": "library",
@@ -21,8 +21,8 @@
     },
     "require-dev": {
         "ext-mbstring": "*",
-        "pestphp/pest": "^0.2.0",
-        "phpunit/phpunit": "^9.0",
+        "pestphp/pest": "^0.3.9",
+        "phpunit/phpunit": "^9.4",
         "simpleregex/srl-php": "^0.1.0"
     },
     "autoload": {
