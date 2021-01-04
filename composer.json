@@ -21,7 +21,7 @@
     },
     "require-dev": {
         "ext-mbstring": "*",
-        "pestphp/pest": "^0.3.9",
+        "pestphp/pest": "^0.3.9 || ^1.0.0",
         "phpunit/phpunit": "^9.4",
         "rector/rector": "^0.8.44",
         "simpleregex/srl-php": "^0.1.0",
